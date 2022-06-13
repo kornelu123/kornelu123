@@ -2,4 +2,4 @@
 My name is Kornel , and im a starting frontend dev , from Poland , currently studying </br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornelu123&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornelu123&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kornelu123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
